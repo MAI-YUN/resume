@@ -4,7 +4,7 @@ description:  >-
 
 show_download: true
 
-theme: jekyll-theme-Minimal
+theme: jekyll-theme-merlot
 
 logo: /assets/img/profile.jpg
 favicon: /assets/img/favicon.png
