@@ -23,7 +23,7 @@ Used Random Forest and Logistic Regression to classify passenger survival. Tuned
 **Tools:** Python, Pandas, Seaborn, Scikit-learn
 
 ### 🏦 **Bank Marketing Prediction**
-Predicted the success of telemarketing campaigns using customer and campaign data from a Portuguese bank. Implemented and compared models including Logistic Regression, Decision Tree, and SVM, based on published research.
+Predicted the success of telemarketing campaigns using customer and campaign data from a Portuguese bank. Implemented and compared models including Logistic Regression, Decision Tree, and SVM, based on published research.  
 **Tools:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 
 ---
