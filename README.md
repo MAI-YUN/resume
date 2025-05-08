@@ -2,7 +2,7 @@
 
 **Data Analyst | Chemistry to Data Science | Python • SQL • Machine Learning**  
 📍 Vancouver, BC | 📧 legnahu9463@gmail.com | 
-💼 [LinkedIn](https://www.linkedin.com/in/mai-yun-hu-3481a5280/)) |
+💼 [LinkedIn](https://www.linkedin.com/in/mai-yun-hu-3481a5280/) |
 
 ---
 
