@@ -14,17 +14,18 @@ I’m a former **Senior Chemical R&D Engineer** with 5 years of experience leadi
 
 ## 💼 Projects
 
-### 🚕 **[NYC Taxi Trip Duration Prediction]**  
+### 🚕 **NYC Taxi Trip Duration Prediction**  
 Built an XGBoost model to predict trip duration from raw taxi data. Engineered features like haversine distance, rush hour, and weekend indicators.  
 **Tools:** Python, XGBoost, Pandas, Scikit-learn, Matplotlib
 
-### ⚔️ **[Titanic Survival Prediction]**  
+### ⚔️ **Titanic Survival Prediction**  
 Used Random Forest and Logistic Regression to classify passenger survival. Tuned hyperparameters and explored feature importance.  
 **Tools:** Python, Pandas, Seaborn, Scikit-learn
 
-### 🏦 **[Bank Marketing Prediction]**  
+### 🏦 **Bank Marketing Prediction**
 Predicted the success of telemarketing campaigns using customer and campaign data from a Portuguese bank. Implemented and compared models including Logistic Regression, Decision Tree, and SVM, based on published research.
 **Tools:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
+
 ---
 
 ## 🧠 Skills
