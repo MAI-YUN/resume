@@ -31,7 +31,7 @@ Predicted the success of telemarketing campaigns using customer and campaign dat
 ## 🧠 Skills
 
 - **Languages & Tools:** Python, SQL, Excel, Git, Tableau  
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost  
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn 
 - **Techniques:** Data Cleaning, Feature Engineering, Regression, Classification, Visualization, Model Tuning
 
 ---
