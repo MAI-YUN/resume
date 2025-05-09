@@ -1,8 +1,7 @@
 # 👩‍💻 MAI-YUN HU
 
-**Data Analyst | Chemistry to Data Science | Python • SQL • Machine Learning**  
-📍 Vancouver, BC | 📧 legnahu9463@gmail.com | 
-💼 [LinkedIn](https://www.linkedin.com/in/mai-yun-hu-3481a5280/) |
+**Data Analyst** | **Chemistry to Data Science** | **Python • SQL • Machine Learning**  
+📍 Vancouver, BC | 📧 legnahu9463@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/mai-yun-hu-3481a5280/)
 
 ---
 
@@ -40,9 +39,9 @@ Predicted the success of telemarketing campaigns using customer and campaign dat
 
 **UltraE Corporation – Taichung, Taiwan**  
 *Senior Chemical R&D Engineer* (2017–2022)  
-- Led 6+ chemical development projects, including pH test strips and H. pylori diagnostics  
-- Designed and conducted lab experiments, analyzed results, and contributed to product development  
-- Collaborated with QA and production teams on transferring formulas to manufacturing
+- Led 6+ chemical development projects, including pH test strips and H. pylori diagnostics. 
+- Designed and conducted lab experiments, analyzed results, and contributed to product development.  
+- Collaborated with QA and production teams on transferring formulas to manufacturing.
 
 ---
 
