@@ -1,4 +1,4 @@
-# 👩‍💻 MAI-YUN HU
+#  MAI-YUN HU
 
 ## 👩‍💻 Data Analyst  
 **Chemistry ➜ Data Science**  
